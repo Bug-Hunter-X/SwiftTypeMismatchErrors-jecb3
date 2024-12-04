@@ -1,0 +1,1 @@
+This example demonstrates a common Swift error: a type mismatch in a function call. The `calculateArea` function expects integer inputs, but the code attempts to pass a String. The solution involves ensuring the function receives the correct data type.
